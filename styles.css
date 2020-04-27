@@ -24,9 +24,14 @@ body{
       color:#035aa6;
   }
 
-  /*********************************************Class Selectors*********************************/
-
-
-  #bhareth {
-      border-radius: 100%;
+  img{
+      background-color: white;
   }
+
+  /*********************************************id Selectors*********************************/
+
+
+  #bhareth:hover {
+    background-color: gold;
+    border-radius: 100%;
+}
